@@ -15,7 +15,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdcarrillo123">
 </a>
 <br>
-<a href="https://www.credly.com/badges/8e69a693-e94b-4540-8e96-2b1eaf5836b0/public_url">
+<a href="https://www.credly.com/badges/8e69a693-e94b-4540-8e96-2b1eaf5836b0/public_url" target="blank">
   <img src="https://user-images.githubusercontent.com/92382017/174416519-1ead6919-3f06-42a7-b7be-6783f24d557f.png">
 
 </a>
